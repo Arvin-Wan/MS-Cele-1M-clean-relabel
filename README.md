@@ -34,5 +34,5 @@ transmission-cli MS-Celeb-1M.torrent
 
 3. Run
 ```sh
-sh clean.sh
+python process.py
 ```
